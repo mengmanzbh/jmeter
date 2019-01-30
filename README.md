@@ -1,4 +1,3 @@
 # jmeter
 jmeter
-cd bin
-./jmeter.sh
+cd bin && ./jmeter.sh
